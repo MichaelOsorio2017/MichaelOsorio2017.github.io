@@ -1,0 +1,33 @@
+{
+  "name": "michaelosorio2017.github.io",
+  "version": "1.0.0",
+  "description": "My first web app for the Web Development curse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelOsorio2017/MichaelOsorio2017.github.io.git"
+  },
+  "keywords": [
+    "NewWebApp",
+    "bootstrap",
+    "Michael",
+    "Osorio",
+    "uniandes",
+    "Universidad",
+    "de",
+    "los",
+    "Andes"
+  ],
+  "author": "Michael Osorio - MichaelOsorio2017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelOsorio2017/MichaelOsorio2017.github.io/issues"
+  },
+  "homepage": "https://github.com/MichaelOsorio2017/MichaelOsorio2017.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.0"
+  }
+}
