@@ -1,5 +1,4 @@
 # Michael Stiven Osorio Riaño
-## Bogotá, Colombia
-## Universidad de los Andes
+## Universidad de los Andes - Bogotá, Colombia
 
 [My Web Page](https://MichaelOsorio2017.github.io "My Personal Web Page")
