@@ -8,17 +8,6 @@ ul#media > li > img{
     width: 15rem;
     height: 15rem;
 }
-footer{
-    margin-bottom: 0;
-    width: 100%;
-    height: 25vh;
-    background-color:#868e96 
-}
-footer > h2,h4{
-    color:white;
-    margin-left: 10px;
-    margin-bottom: 0;
-}
 @media only screen and (max-width: 600px){
     ul#media > li{
         display: block;
@@ -32,5 +21,40 @@ footer > h2,h4{
         position: relative;
         width: 100%;
         height: 100%;
+    }
+}
+
+.card-footer{
+    background-color: #495057;
+}
+
+.card-footer >h2,h4{
+    color: white    ;
+}
+
+.row > .col-12 > iframe{
+    height: 100%;
+    width: 100%;
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+ .row{
+    height: 500px;
+    width: 100%;
+ }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    .row{
+        height: 350px;
+        width: 100%;
+     }
+}
+
+@media (min-width: 992px){
+    .row{
+        height: 500px;
+        width: 100%;
     }
 }
