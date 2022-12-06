@@ -29,6 +29,6 @@
   "homepage": "https://github.com/MichaelOsorio2017/MichaelOsorio2017.github.io#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
